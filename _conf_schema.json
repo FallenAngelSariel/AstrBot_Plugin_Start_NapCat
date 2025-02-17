@@ -1,0 +1,9 @@
+{
+    "bat_path": {
+        "description": "NapCat 'launcher.bat' ",
+        "type": "string",
+        "hint": "Absolute path of NapCat 'launcher.bat',启动文件的绝对路径",
+        "default": "",
+        "obvious_hint": true
+    }
+}
